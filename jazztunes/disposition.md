@@ -2,7 +2,7 @@
 title: "Disposition"
 ---
 
-# Jazz Maestro - Which Jazz Tune Should I Learn Next?
+# Which Jazz Tune Should I Learn Next?
 
 
 Disposition for Master Thesis MAS Data Science, ZHAW
